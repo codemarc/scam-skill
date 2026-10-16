@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scam?"
+  short_description: "Spot scam signals. Explain evidence. Admit uncertainty."
+  default_prompt: "Use $scam to assess this message or screenshot and explain what you can and cannot verify."
