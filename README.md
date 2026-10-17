@@ -76,6 +76,14 @@ No skill can promise to work identically in every AI product. This package avoid
 
 Redact personal details before sharing. Never send a password, verification code, recovery phrase, or full account number.
 
+## Investigation with a Trailcard
+
+Version 0.2.0 candidate incorporates [Trailcard](https://github.com/braintrailz/trailcard): Purpose, Success, Authority, Judgment, Action, and Trust. No separate installation is required. The checker defines acceptable investigation, preserves original evidence, and checks its conclusion against the available action records.
+
+Every response now identifies checks actually performed and meaningful limitations. External checks disclose the service used and the kind of query data sent, with personal details redacted. No lookup is also an explicit result. Host activity outside accessible records remains unknown.
+
+A correct verdict does not excuse unauthorized disclosure. The skill's record-based consistency check is not an independent certification. See [the investigation template](scam/references/trailcard.md).
+
 ## The standard
 
 | Commitment | What it means |
@@ -90,6 +98,8 @@ Redact personal details before sharing. Never send a password, verification code
 ## Inception and public scrutiny
 
 This acknowledges Marc's **"inception theory of life"**: inspect the pitch, inspect how the pitch could manipulate the checker, and inspect what the checking process could reveal.
+
+Examine the offer. Examine how the offer could manipulate the examiner. Examine what the examination itself could change or reveal.
 
 The method is deliberately public. Assume a scammer can read it. Reliability must come from evidence and disciplined verification rather than secrecy. Avoiding direct contact reduces exposure to suspected infrastructure; it cannot guarantee invisible analysis or control the AI host's logging and link previews.
 
@@ -112,4 +122,4 @@ Copyright 2026 Marc J. Greenberg. [MIT License](LICENSE). A copy is included ins
 | [FTC business opportunity guidance](https://consumer.ftc.gov/articles/when-business-offer-or-coaching-program-scam) | Unsupported earnings, pressure, and deception patterns |
 | [FTC phishing guidance](https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams) | Independent verification and phishing signs |
 
-Documentation reviewed October 16, 2026. This package is an initial release candidate; see the evaluation record for checks actually performed.
+Documentation updated October 17, 2026. This package is an initial release candidate; see the evaluation record for checks actually performed.
